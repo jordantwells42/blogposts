@@ -1,4 +1,4 @@
-# module-blogpost
- The companion repository to my blogpost about modules, packages, libraries, and dependencies
+# blogposts
+ The companion repository to my blog about Python
  
- https://www.jordantwells.com/blog/post/2/
+ https://www.jordantwells.com/blog/ and 
