@@ -1,4 +1,2 @@
 # blogposts
- The companion repository to my blog about Python
- 
- https://www.jordantwells.com/blog/ and 
+All of the companion code for my blogposts at jordantwells.com/blog and https://medium.com/@jordantwells
