@@ -1,0 +1,1 @@
+__all__ = ["sepia", "dog"]    #whenever from image.filters import * is called, only import sepia and dog
